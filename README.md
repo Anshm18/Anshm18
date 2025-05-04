@@ -16,7 +16,9 @@ I’m passionate about building responsive and dynamic web applications. With ex
 ## 🏅 LeetCode Achievements
 
 - 🧩 Solved **200+** problems across data structures and algorithms  
-- [![Leetcode_100_days_badge](https://assets.leetcode.com/static_assets/others/lg25100.png)](https://leetcode.com/u/anshmalhotra9718116717/)
+- <a href="https://leetcode.com/u/anshmalhotra9718116717/">
+    <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="120"/>
+  </a>
 
 ---
 
