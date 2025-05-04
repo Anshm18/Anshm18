@@ -77,4 +77,5 @@ I’m passionate about building responsive and dynamic web applications. With ex
 ## 📈 Let's Connect!
 
 I’m always open to collaborating on projects or exploring new opportunities in software development. Feel free to connect!
-
+📧 [anshmalhotra328@gmail.com](mailto:anshmalhotra328@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/ansh-malhotra-933171213) | [GitHub](https://github.com/Anshm18)
