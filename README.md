@@ -3,13 +3,20 @@
 🎯 **Aspiring Full Stack Developer | B.Tech in Information Technology (2022-2026)**  
 📍 Based in Delhi, India  
 📧 [anshmalhotra328@gmail.com](mailto:anshmalhotra328@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/Ansh-Malhotra) | [GitHub](https://github.com/Anshm18)
+🔗 [LinkedIn](www.linkedin.com/in/ansh-malhotra-933171213) | [GitHub](https://github.com/Anshm18)
 
 ---
 
 ## 🧠 About Me
 
 I’m passionate about building responsive and dynamic web applications. With experience in both frontend and backend development, I enjoy transforming ideas into working software that solves real-world problems.
+
+---
+
+## 🏅 LeetCode Achievements
+
+- 🧩 Solved **200+** problems across data structures and algorithms  
+- [![Leetcode_100_days_badge](https://assets.leetcode.com/static_assets/others/lg25100.png)](https://leetcode.com/u/anshmalhotra9718116717/)
 
 ---
 
